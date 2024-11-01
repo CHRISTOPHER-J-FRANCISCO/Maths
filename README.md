@@ -1,5 +1,4 @@
-# Maths :abacus:
+# Trigonometry :triangular_ruler:
 
-Certain software written in this repository require you to have a strong foundation in maths.
 
-The existence of this repository is due to the fact that teachers/professors intent is to have you just pass their class. 
+It's used to create simulations and I believe the Earth is a simulation
